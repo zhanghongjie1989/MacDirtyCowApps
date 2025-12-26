@@ -1,2 +1,5 @@
-# MacDirtyCowApps
-MacDirtyCow IPA App List No Jailbreak | Online (iOS 14 / iOS 15 / iOS 16)
+巨魔 商店 ipa 文件集.
+他是基于ios漏洞注入代码实现免越狱，修改系统的能力。
+ipa/tipa是安装文件
+
+ipa功能简绍
