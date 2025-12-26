@@ -52,7 +52,7 @@
 |--------|----------|----------|----------|
 | **DirtyCowApp.ipa** | DirtyCow漏洞利用应用，获取系统级权限 | 运行后利用DirtyCow漏洞获得root权限 | ⭐⭐⭐⭐⭐ |
 | **DynamicCow.ipa** | 动态Cow漏洞利用工具 | 动态利用Cow漏洞获取系统权限 | ⭐⭐⭐⭐⭐ |
-| **LittleCow.ipa** | 轻量级Cow漏洞利用工具 | 轻量级的漏洞利用工具 | ⭐⭐⭐⭐⭐ |
+| **LittleCow.ipa** | 手势工具可以让你不越狱使用 iphoneX手势 | 手势工具可以让你不越狱使用 iphoneX手势 | ⭐⭐⭐⭐⭐ |
 | **AppIndexTrollStore.tipa** | TrollStore应用索引工具 | 为TrollStore提供应用索引服务 | ⭐⭐⭐⭐⭐ |
 | **TrollStore.tipa** | 永久越狱应用商店，无需重启保持越狱状态 | 安装后可安装永久性越狱应用 | ⭐⭐⭐⭐⭐ |
 | **Tr0LL3ssRmvR.ipa** | TrollStore相关移除工具 | 用于移除或修复TrollStore相关问题 | ⭐⭐⭐⭐⭐ |
